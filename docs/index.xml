@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practica DWES</title>
+    <link>https://GemaParra/Practica/docs/</link>
+    <description>Recent content on Practica DWES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2021 19:58:59 +0100</lastBuildDate>
+    
+	<atom:link href="https://GemaParra/Practica/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puzzle</title>
+      <link>https://GemaParra/Practica/docs/ejercicio3/contenido3/</link>
+      <pubDate>Fri, 19 Nov 2021 19:58:59 +0100</pubDate>
+      
+      <guid>https://GemaParra/Practica/docs/ejercicio3/contenido3/</guid>
+      <description>Organiza según sus caracteristicas estas aplicaciones y tecnologías para el desarrollo web.       APLICACIÓN DESCRIPICIÓN     WebPack empaquetador de módulos   Prototype framework escrito en JavaScript   Polyfill fragmento de código   PHP lenguaje de programación   Frameworks de php plataforma para crear aplicaciones web PHP   DJango framework de desarrollo web   JSP tecnología orientada a crear páginas web   Css lenguaje de diseño gráfico   Bootstrap biblioteca multiplataforma   Vue un framework progresivo Javascript   React biblioteca Javascript de código abierto   Angular framework para aplicaciones web   JavaScript lenguaje de programación   TypeScript lenguaje de programación libre y de código abierto   JQuery biblioteca multiplataforma de JavaScript   Gatsby generador de sitios estáticos   Hugo creación de sitios web estáticos   Jekyll generador de páginas estáticas   Pelican constructor de sitios web estáticos   Scraping técnica utilizada mediante programas de software para extraer información de sitios web   heroku plataforma como servicio de computación en la Nube   Vuespress generador de sitio web    A continuación ampliamos las caracteristicas:   Babel es un &amp;ldquo;compilador&amp;rdquo; (o transpilador) para JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>Diagrama</title>
+      <link>https://GemaParra/Practica/docs/ejercicio2/contenido2/</link>
+      <pubDate>Fri, 19 Nov 2021 19:58:46 +0100</pubDate>
+      
+      <guid>https://GemaParra/Practica/docs/ejercicio2/contenido2/</guid>
+      <description>¿Qué pasa cuando escribes una dirección web en tu navegador?    Se envía la solicitud al servidor. Este la recibe y comienza el proceso de construir la página web. Si existe código PHP, se ejecuta en este momento, se hacen todas las consultas a la Base de Datos. El resultado es una página con HTML y tal vez Java Script.
+  Tu navegador recibe la página, interpreta y usa el HTML para construirla.</description>
+    </item>
+    
+    <item>
+      <title>Portafolios</title>
+      <link>https://GemaParra/Practica/docs/ejercicio1/contenido1/</link>
+      <pubDate>Fri, 19 Nov 2021 19:58:30 +0100</pubDate>
+      
+      <guid>https://GemaParra/Practica/docs/ejercicio1/contenido1/</guid>
+      <description>Historia de Zaragoza: Los primeros poblados Los primeros vestigios humanos encontrados en la ciudad pertenecen a la prehistoria, concretamente al siglo VII a.C., hacia el final de la edad de Bronce y corresponden a unas cabañas de adobe que se situaban en la confluencia de los ríos Ebro y Huerva.
+Salduie, el asentamiento íbero Desde el siglo III a.C. existió un asentamiento íbero que llegó a ocupar hasta 10 hectáreas. Este poblado íbero acuñó su propia moneda y en esa época ya se ha documentado el fuerte viento que sopla en el valle, el cercius, actualmente conocido como cierzo.</description>
+    </item>
+    
+  </channel>
+</rss>

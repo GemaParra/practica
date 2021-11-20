@@ -1,0 +1,6 @@
+baseURL = "https://GemaParra/Practica/docs"
+languageCode = "en-us"
+title = "Practica DWES"
+theme = "learn"
+[params]
+themeVariant = "blue"

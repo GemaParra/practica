@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ejercicio 2 on Practica DWES</title>
+    <link>https://GemaParra/Practica/docs/ejercicio2/</link>
+    <description>Recent content in Ejercicio 2 on Practica DWES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2021 19:34:26 +0100</lastBuildDate>
+    
+	<atom:link href="https://GemaParra/Practica/docs/ejercicio2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diagrama</title>
+      <link>https://GemaParra/Practica/docs/ejercicio2/contenido2/</link>
+      <pubDate>Fri, 19 Nov 2021 19:58:46 +0100</pubDate>
+      
+      <guid>https://GemaParra/Practica/docs/ejercicio2/contenido2/</guid>
+      <description>¿Qué pasa cuando escribes una dirección web en tu navegador?    Se envía la solicitud al servidor. Este la recibe y comienza el proceso de construir la página web. Si existe código PHP, se ejecuta en este momento, se hacen todas las consultas a la Base de Datos. El resultado es una página con HTML y tal vez Java Script.
+  Tu navegador recibe la página, interpreta y usa el HTML para construirla.</description>
+    </item>
+    
+  </channel>
+</rss>
