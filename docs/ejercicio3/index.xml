@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ejercicio 3 on Practica DWES</title>
-    <link>https://GemaParra/Practica/docs/ejercicio3/</link>
+    <link>https://gemaparra.github.io/practica/ejercicio3/</link>
     <description>Recent content in Ejercicio 3 on Practica DWES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Nov 2021 18:57:50 +0100</lastBuildDate>
     
-	<atom:link href="https://GemaParra/Practica/docs/ejercicio3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gemaparra.github.io/practica/ejercicio3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Puzzle</title>
-      <link>https://GemaParra/Practica/docs/ejercicio3/contenido3/</link>
+      <link>https://gemaparra.github.io/practica/ejercicio3/contenido3/</link>
       <pubDate>Fri, 19 Nov 2021 19:58:59 +0100</pubDate>
       
-      <guid>https://GemaParra/Practica/docs/ejercicio3/contenido3/</guid>
+      <guid>https://gemaparra.github.io/practica/ejercicio3/contenido3/</guid>
       <description>Organiza según sus caracteristicas estas aplicaciones y tecnologías para el desarrollo web.       APLICACIÓN DESCRIPICIÓN     WebPack empaquetador de módulos   Prototype framework escrito en JavaScript   Polyfill fragmento de código   PHP lenguaje de programación   Frameworks de php plataforma para crear aplicaciones web PHP   DJango framework de desarrollo web   JSP tecnología orientada a crear páginas web   Css lenguaje de diseño gráfico   Bootstrap biblioteca multiplataforma   Vue un framework progresivo Javascript   React biblioteca Javascript de código abierto   Angular framework para aplicaciones web   JavaScript lenguaje de programación   TypeScript lenguaje de programación libre y de código abierto   JQuery biblioteca multiplataforma de JavaScript   Gatsby generador de sitios estáticos   Hugo creación de sitios web estáticos   Jekyll generador de páginas estáticas   Pelican constructor de sitios web estáticos   Scraping técnica utilizada mediante programas de software para extraer información de sitios web   heroku plataforma como servicio de computación en la Nube   Vuespress generador de sitio web    A continuación ampliamos las caracteristicas:   Babel es un &amp;ldquo;compilador&amp;rdquo; (o transpilador) para JavaScript.</description>
     </item>
     

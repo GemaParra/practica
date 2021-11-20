@@ -1,4 +1,4 @@
-baseURL = "https://GemaParra/Practica/docs"
+baseURL = "https://gemaparra.github.io/practica/"
 languageCode = "en-us"
 title = "Practica DWES"
 theme = "learn"
